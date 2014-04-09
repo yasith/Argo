@@ -1,0 +1,61 @@
+Greek units,,,,,,,,,,,,,,,,,
+Age of Mythology Heaven (http://aom.heavengames.com),,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,Cost,Pop,Hack Damage,Pierce Damage,Crush Damage,Range,HP,Hack Armor,Pierce Armor,Crush Armor,Speed,Line of sight,Production time,Favor Bounty,Attributes,Attack Recharge,Special attack (MU's only)
+Villager,50F,1,8,6*,--,12*,65,25%,35%,99%,3.8,14,14,1.08,x2.5 Towers (*Ranged attack only applies to animals),,
+Caravan,100F,1,--,--,--,--,115,40%,40%,99%,3.8,16,15,1.08,,,
+,,,,,,,,,,,,,,,,,
+Hoplite,50F 40G,2,8,--,--,--,115,35%,15%,99%,4.2,16,14,1.08,,,
+Hypaspist,60F 25G,2,5,--,--,--,85,35%,10%,99%,4.3,16,9,1.08,"x4.25 Infantry, x4.25 Hersir",,
+Toxotes,55W 35G,2,--,6.5,--,15,60,15%,15%,99%,4.0,19,15,1.08,x0.9 Raider,,
+Peltast,60W 20G,2,--,3,--,16,70,15%,20%,99%,4.0,20,9,1.08,"x4 Archers, x2 Throwing Axemen",,
+Hippikon,40F 80G,3,10,--,--,--,150,10%,25%,99%,5.5,8,20,1.08,"x1.25 Archers, training time reduced to 15s in Heroic",,
+Prodromos,70F 40G,3,6,--,--,--,120,20%,10%,99%,6.0,16,10,1.08,x3 Cavalry,,
+,,,,,,,,,,,,,,,,,
+Myrmidon,70F 50G,2,10,--,--,--,110,45%,20%,99%,4.0,16,14,1.08,x1.5 vs Non Greek,,
+Hetairoi,60F 100G,3,8,--,--,--,110,10%,40%,99%,4.8,16,17,1.08,x3.5 Buildings,,
+Gastraphetes,120W 80G,3,--,8,6,24,60,15%,15%,99%,3.8,28,14,1.08,,,
+,,,,,,,,,,,,,,,,,
+Petrobolos,150W 200G,3,--,5x3,11x3,10-28,110,30%,90%,90%,2.4,40,19,1.08,x2.5 Ships,,
+Helepolis,300W 200G,5,,5x3,17x3,10,650,5%,96%,50%,2.9,18,24,1.08,,,
+,,,,,,,,,,,,,,,,,
+Fishing Boat,50W,1,--,--,--,--,120,60%,50%,5%,4.8,20,14,1.08,,,
+Transport,120W,2,--,--,--,--,180,40%,80%,5%,5.3,14,19,1.08,,,
+Trireme,100W 50G,2,--,6x3,--,12,290,30%,20%,10%,6.0,24,14,1.08,x3 Transports,,
+Pentekonter,100W 50G,2,20,--,--,2,240,30%,20%,75%,7.0,16,12,1.08,,,
+Juggernaut,100W 100G,3,--,--,6x4,18,480,10%,50%,10%,4.8,24,17,1.08,x0.5 Buildings,,
+Scylla,200G 15Fv,5,20,--,10,--,800,40%,70%,99%,5.3,16,5,2.16,,--,
+Carcinos,200W 20Fv,4,20,--,12,--,720,70%,60%,80%,4.3,16,9,2.16,,--,300 hack damage to all within 6 range on death
+,,,,,,,,,,,,,,,,,
+Pegasus,50F 2Fv,2,--,--,--,--,140,50%,50%,99%,5.0,18,6,1.08,,,
+Centaur,200W 15Fv,3,--,12,--,12,220,25%,35%,80%,5.0,20,19,2.16,x3 Myth units x0.25 Heroes,15,"24 damage, never misses"
+Minotaur,200F 16Fv,4,15,--,10,--,300,60%,50%,80%,4.0,20,20,2.16,x3 Myth units,15,"60 damage, works on 'infantry' myth units"
+Cyclops,250F 22Fv,4,15,--,12,--,600,40%,50%,80%,3.2,16,20,2.16,x3 Myth units,15,Kills any non myth/siege unit instantly
+Hydra,250F 28Fv,5,20,--,10,--,800,60%,40%,80%,4.0,16,20,2.16,"x2 Myth units, x0.5 Heroes",--,
+Manticore,300W 28Fv,5,--,11x3,--,16,420,30%,60%,80%,4.3,20,17,2.16,"x1.5 Myth units, x0.1 Heroes",15,6x15 damage
+Nemean Lion,200G 25Fv,4,20,--,10,--,660,30%,60%,80%,4.8,16,20,2.16,"x3 Myth units, x0.5 Heroes",20,12 hack damage to units within 5 range in front
+Medusa,250G 40Fv,5,--,15,12.5,10,360,60%,70%,80%,4.3,18,20,2.16,,20,"Instantly kills any non hero, non siege unit"
+Colossus,300G 40Fv,5,20,--,50,--,1100,50%,80%,80%,2.4,16,24,2.16,"x3 Myth units, x0.8 Heroes",--,Can consume trees/gold mines for HP
+Chimera,300G 30Fv,4,20,--,--,--,800,60%,60%,80%,5.3,16,20,2.16,"x3 Myth units, x0.8 Heroes",20,28 hack damage to units within 8 range in front
+,,,,,,,,,,,,,,,,,
+Shade of Hades,--,1,6,--,--,--,90,20%,20%,99%,4.0,16,--,1.08,,,
+Militia,--,1,7,--,--,--,100,30%,20%,99%,4.8,20,--,0.48,,,
+Sentinel,--,--,--,11,--,22,280,65%,96%,10%,--,26,--,2.16,,,
+Kataskopos,--,2,2,--,--,--,70,10%,70%,99%,5.5,14,--,1.08,,,
+Hippocampus,--,0,--,--,--,--,70,10%,70%,99%,6.6,16,--,1.08,,,
+,,,,,,,,,,,,,,,,,
+Jason,100F 50G,2,9,--,--,--,250,25%,35%,99%,4.3,16,9,2.16,x7 Myth units,,
+Odysseus,200W 2Fv,2,--,8,--,18,320,20%,30%,99%,4.0,20,17,2.16,x7 Myth units,,
+Heracles,350F 4Fv,3,10,--,--,--,400,25%,40%,99%,4.3,16,23,2.16,x7 Myth units,,
+Bellerophon,400G 6Fv,4,20,--,--,--,400,20%,40%,99%,6.0,16,27,2.16,x7 Myth units,5,"100 hack damage, jump 4-14 range, x6 vs myth units"
+,,,,,,,,,,,,,,,,,
+Theseus,100F 50G,2,9,--,--,--,240,25%,40%,99%,4.3,16,9,2.16,x7 Myth units,,
+Hippolyta,200W 2Fv,2,--,9,--,18,240,20%,30%,99%,4.3,20,17,2.16,x7 Myth units,,
+Atalanta,350F 4Fv,3,8,--,--,--,350,35%,40%,99%,6.0,16,23,2.16,x7 Myth units,,
+Polyphemus,400G 6Fv,4,15,--,5,--,540,40%,40%,99%,3.2,20,27,2.16,x5 Myth units,18,60 hack damage x6 vs MU's
+The Argo,250W 8Fv,3,--,8x3,--,16,480,40%,25%,20%,4.8,24,17,2.16,"x5 MU's, x3 Transports, x5 Buildings",,
+,,,,,,,,,,,,,,,,,
+Ajax,100F 50G,2,9,--,--,--,240,30%,35%,99%,4.3,16,9,2.16,x7 Myth units,,
+Chiron,200W 2Fv,2,--,7,--,14,300,20%,20%,99%,5.3,20,17,2.16,x7 Myth units,,
+Achilles,350F 4Fv,3,9,--,--,--,340,40%,45%,99%,5.5,16,23,2.16,x7 Myth units,,
+Perseus,400G 6Fv,4,7,--,--,--,360,20%,40%,99%,4.3,16,27,2.16,x10 Myth units,24,Turns MU to stone

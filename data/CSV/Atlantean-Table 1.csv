@@ -1,0 +1,53 @@
+Atlantean units,,,,,,,,,,,,,,,,,
+Age of Mythology Heaven (http://aom.heavengames.com),,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,Cost,Pop,Hack Damage,Pierce Damage,Crush Damage,Range,HP,Hack Armor,Pierce Armor,Crush Armor,Speed,Line of sight,Production time,Favor Bounty,Attributes,Attack Recharge,Special attack (MU's only)
+Citizen,125F 25W,3,8,--,--,--,160,30%,35%,99%,3.25,16,35,1.08,x2.5 Towers (*Ranged attack only applies to animals),,
+Oracle,25F 35G,1,--,--,--,--,90,15%,5%,99%,3.5,2/30,9,1.08,Increases .46 LOS/sec for 1 min,,
+Caravan,100F,1,--,--,--,--,115,40%,40%,99%,3.8,16,15,1.08,,,
+,,,,,,,,,,,,,,,,,
+Murmillo,55F 30G,2,8,--,--,--,110,35%,10%,99%,4.5,16,12,1.08,x2 Obelisk,,
+Contarius,70F 40G,3,10,--,--,--,130,15%,15%,99%,5.75,10,17,1.08,x1.25 Archers,,
+Arcus,60W 35G,2,--,6,--,20,60,15%,15%,99%,3.75,22,12,1.08,x0.9 Raiding Cavalry,,
+,,,,,,,,,,,,,,,,,
+Katapeltes,60F 35G,2,5,--,--,--,115,35%,10%,99%,4.0,20,9,1.08,"x4 Archers, x2 Throwing Axemen",,
+Turma,50W 45G,2,--,4,--,12,80,5%,30%,99%,5.0,18,14,1.08,"x1.25 Archers, training time reduced to 15s in Heroic",,
+Cheiroballista,115F 100G,4,--,4,--,20,85,25%,50%,79%,3.85,30,20,1.08,x3 Cavalry,,
+,,,,,,,,,,,,,,,,,
+Destroyer,70F 60G,3,5,--,--,--,150,30%,70%,99%,3.6,16,10,1.08,"x3 Cavalry, x2.5 Siege",,
+Fanatic,75F 55G,3,10,--,--,--,110,40%,25%,99%,4.3,16,12,1.08,"x4 Archers, x2 Throwing Axeman",,
+Fire Siphon,275W 180G,5,--,--,55,3-12,350,5%,96%,60%,2.9,20,20,1.08,"x3 Ships, x2.5 Infantry, x1.5 Hersir, x4.5 Huskarl, x4/x5 Destroyer",,
+,,,,,,,,,,,,,,,,,
+Fishing Boat,50W,1,--,--,--,--,120,60%,50%,5%,4.8,20,18,1.08,,,
+Transport,110W,2,--,--,--,--,190,40%,80%,5%,5.33,14,19,1.08,Transports 10 units,,
+Bireme,80W 40G,2,--,12,--,12,240,30%,15%,5%,7.25,22,12,1.08,x2.5 Transports,,
+Fire Ship,100W 50G,2,20,--,--,2-6,235,30%,15%,75%,6.75,20,9,1.08,,,
+Siege Bireme,100W 90G,3,--,--,6,18,470,8%,50%,8%,5.0,24,17,1.08,x0.5 Buildings,,
+Nereid,200G 15Fv,3,25,--,--,--,400,30%,50%,80%,5.0,20,12,2.16,"x7 Myth units, x0.5 Heroes",--,
+Man O'War,300F 25Fv,5,25,--,--,8,900,50%,70%,80%,6.0,22,10,2.16,"x.25 Heros, x3 Myth Units",,
+Servant,125G 15Fv,3,8,--,4,--,300,25%,30%,80%,5.5,16,15,2.16,"x3 Myth units, x0.5 Heroes, Heals 0.75hp/sec",--,Heal Rate: .75
+,,,,,,,,,,,,,,,,,
+Automaton,90G 8Fv,2,11,--,--,--,200,40%,45%,80%,3.75,15,18,2.16,,,Heal Rate: 1.5
+Promethean,80G 10Fv,3,10,--,--,--,175,50%,25%,80%,4.0,16,18,2.16,"x3 Myth units, x0.5 Heroes",15,Splits into offspring when killed
+Caladria,100W 25G 10Fv,2,--,--,--,--,125,10%,20%,99%,6.0,20,9,2.16,Heals 1.25hp/sec,15,
+Stympalian Bird,200W 50G 25Fv,4,--,15,--,15,400,15%,30%,80%,3.6,20,10,2.16,"x3 Myth units, x0.25 Heroes, Fires 3 arrows",15,
+Behemoth,300F 20Fv,5,6,--,12,--,550,30%,75%,80%,3.0,16,20,2.16,"x2 Myth units, x0.5 Heroes, x5 Buildings, Regenerates",--,
+Satyr,225W 18Fv,3,--,12,--,16,400,50%,50%,80%,3.75,17,--,2.16,x3 Myth units,15,Fires 3 javelins at once
+Lampades,250G 25Fv,5,12,10,--,10,350,40%,50%,80%,4.3,18,20,2.16,"x2 Myth units, x0.25 Heroes, Puts units into ""Chaos""",20,"Inflicts ""Chaos"" on human target"
+Argus,250G 25Fv,5,20,--,--,--,360,60%,70%,80%,4.1,18,30,2.16,"x3 Myth units, x0.5 Heroes",20,Instantly kills human target
+Hekagigantes,300G 25Fv,5,25,--,30,--,850,45%,45%,80%,3.3,18,24,2.16,x0.5 Heroes,--,"Sends nearby human units flying, does additional damage"
+,,,,,,,,,,,,,,,,,
+Dryad,150G,--,15,--,--,--,275,40%,50%,99%,4.5,30,8,0.48,Trained at the Hesperides Tree,,
+Tartarian Spawn,--,--,15,--,20,--,350,40%,40%,85%,3.5,15,--,2.16,Spawns from Tartarian Gate,,Jumps towards unit
+Carnivora,--,--,15,--,10,4,500,35%,20%,80%,--,15,--,--,,,
+Lair Spider,40F 30G,--,--,--,--,--,20,5%,5%,99%,--,--,--,1.08,,,"Instantly kills 1 human unit, then disappears"
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

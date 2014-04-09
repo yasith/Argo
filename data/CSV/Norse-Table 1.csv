@@ -1,0 +1,41 @@
+Norse units,,,,,,,,,,,,,,,,,
+Age of Mythology Heaven (http://aom.heavengames.com),,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,Cost,Pop,Hack Damage,Pierce Damage,Crush Damage,Range,HP,Hack Armor,Pierce Armor,Crush Armor,Speed,Line of sight,Production time,Favor Bounty,Attributes,Attack Recharge,Special attack (MU's only)
+Gatherer,50F,1,8,6*,--,12*,65,25%,35%,99%,3.8,14,14,1.08,x2.5 Towers (*Ranged attack only applies to animals),,
+Dwarf,70G,1,8,6*,--,12*,75,25%,35%,99%,3.8,16,16,1.08,x2.5 Towers (*Ranged attack only applies to animals),,
+Ox Cart,50F 50W,1,--,--,--,--,180,30%,40%,99%,2.9,6,8,1.08,,,
+Caravan,100F,1,--,--,--,--,115,40%,40%,99%,3.8,16,15,1.08,,,
+,,,,,,,,,,,,,,,,,
+Hersir,80F 40G,3,8,--,--,--,130,20%,15%,99%,4.2,16,23,2.16,"x6 Myth units, Favor x2",,
+,,,,,,,,,,,,,,,,,
+Ulfsark,50F 30G,2,9,--,--,--,80,30%,5%,99%,4.8,16,9,1.08,x3 Obelisks,,
+Throwing Axeman,50W 40G,2,4.5,--,--,9,65,35%,10%,99%,4.0,16,16,1.08,"x2.25 Infantry, x2 Hersir, x2.75 Hoplite",,
+Raiding Cavalry,40F 50G,2,8,--,--,--,105,15%,35%,99%,6.0,8,15,1.08,"x1.25 Archers, x1.75 Throwing Axemen",,
+Huskarl,75W 40G,2,8,--,--,--,115,15%,50%,99%,5.0,16,9,1.08,x2 Archers,,
+Jarl,50F 80G,3,9,--,--,--,180,20%,35%,99%,4.8,16,9,1.08,x4 Myth units,,
+,,,,,,,,,,,,,,,,,
+Portable Ram,125W 125G,3,--,--,40,--,250,5%,99%,90%,3.6,14,17,1.08,,,
+Ballista,150W 150G,3,--,9x4,4x4,4-30,85,20%,80%,90%,2.4,40,17,1.08,,,
+,,,,,,,,,,,,,,,,,
+Fishing Boat,50W,1,--,--,--,--,120,60%,50%,5%,4.8,20,14,1.08,,,
+Transport,120W,2,--,--,--,--,180,40%,80%,5%,5.3,14,19,1.08,,,
+Longboat,100W 50G,2,--,6x3,--,12,290,30%,20%,10%,6.0,24,14,1.08,"x3 Transports, favor x2.5",,
+Drakkar,100W 50G,2,20,--,--,2,240,30%,20%,75%,7.0,16,12,1.08,,,
+Dragon Boat,100W 100G,3,--,--,6x4,18,480,10%,50%,10%,4.8,24,17,1.08,x0.5 Buildings,,
+Kraken,300F 25Fv,5,15,--,5,--,800,50%,70%,80%,6.0,22,10,2.16,x0.05 Heroes,16,Destroys a ship
+Jormund Elver,200F 15Fv,3,--,40,--,20,800,20%,30%,80%,6.0,24,5,2.16,,,
+,,,,,,,,,,,,,,,,,
+Troll,150W 15Fv,4,--,12,--,14,200,50%,50%,80%,3.6,20,15,2.16,"x3 Myth units, x0.25 Heroes",--,
+Valkyrie,200F 20Fv,4,12,--,--,--,375,55%,70%,80%,6.0,20,17,1.08,x3 Myth units,--,
+Einherjar,175G 15Fv,3,15,--,10,--,275,70%,60%,80%,3.2,16,17,2.16,x3 Myth units,20,"+50% attack for all units within 10 range, decreases over next few seconds"
+Battle Boar,250G 30Fv,4,20,--,20,--,720,60%,60%,80%,5.3,16,20,2.16,"x2 Myth units, x0.6 Heroes",18,"10 hack damage to all adjacent units, flings away"
+Mountain Giant,300F 30Fv,5,20,--,25,--,1200,45%,30%,80%,3.2,16,17,2.16,"x2 Myth units, x0.8 Heroes",15,"120 crush damage, only used on buildings"
+Frost Giant,200G 25Fv,5,18,--,12,--,600,55%,70%,80%,3.8,20,24,2.16,x3 Myth units,15,Freezes non hero in place for 20 seconds
+Fenris Wolf,150G 15Fv,3,15,--,--,--,420,40%,50%,80%,4.0,16,14,2.16,"x2 Myth units, x0.5 Heroes",--,Each wolf adds +20% attack and speed to other wolves within 25 range
+Fire Giant,300G 35Fv,5,15,--,10,14,600,60%,80%,80%,3.2,18,24,2.16,x0.25 Heroes,15,"25 hack damage per fireball, fireballs travel 14 range"
+,,,,,,,,,,,,,,,,,
+Hero of Ragnarok,--,3,11,--,--,--,120,30%,30%,99%,4.8,16,--,2.16,x4 Myth units,,
+Nidhogg,--,--,30,--,40,4,1800,50%,60%,99%,3.7,22,--,1.08,x0.10 Heroes,,Splash damage
+Fimbulwinter Wolf,--,--,14,--,8,--,180,20%,70%,99%,6.6,25,--,2.16,,,
+Raven,--,--,--,--,--,--,50,20%,60%,99%,4.0,20,--,1.08,,,
